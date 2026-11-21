@@ -1,0 +1,4 @@
+Risk Level,Customer Profile,Recommended Action,Business Priority
+High Risk,Customers with high predicted probability of churn,"Personalized retention offers, proactive calls, plan review, loyalty incentives",Immediate intervention
+Medium Risk,Customers showing moderate churn risk,"Targeted engagement, usage monitoring, satisfaction surveys, relevant offers",Preventive engagement
+Low Risk,Customers with low predicted probability of churn,"Loyalty rewards, engagement campaigns, cross-selling where appropriate",Relationship strengthening

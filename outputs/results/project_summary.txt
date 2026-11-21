@@ -1,0 +1,29 @@
+
+TELECOM CUSTOMER CHURN ANALYSIS
+================================
+
+Dataset:
+- Total customers analyzed: 100,000
+- Churn rate: 49.56%
+
+Model:
+- Selected model: Random Forest
+- Accuracy: 0.6193
+- Precision: 0.6073
+- Recall: 0.6564
+- F1 Score: 0.6309
+- ROC-AUC: 0.6724
+
+High-Risk Customers:
+- Identified: 3,107
+
+Business Objective:
+Predict customer churn and support proactive customer retention
+using machine learning and customer risk segmentation.
+
+Recommended Strategy:
+- Prioritize high-risk customers
+- Deploy targeted retention campaigns
+- Improve customer engagement
+- Monitor model performance over time
+- Evaluate retention campaign effectiveness
