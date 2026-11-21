@@ -11,7 +11,6 @@ Customer churn can reduce recurring revenue and customer lifetime value. This pr
 - Record.csv: customer records and churn-related attributes
 - Target: `churn` (0 = retained, 1 = churn)
 
-> The source datasets are not included in this repository. Place authorized copies in the `data/` directory before running the notebook.
 
 ## Workflow
 1. Load and inspect data
@@ -36,7 +35,7 @@ These metrics indicate useful predictive signal, while also leaving room for imp
 
 ## Repository Structure
 ```
-data/                 # Place Client.csv and Record.csv here (not committed)
+data/               
 notebooks/             # Analysis notebook
 models/                # Saved model pipeline
 outputs/
@@ -53,8 +52,6 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-Place the datasets in `data/`, then open and run:
-`notebooks/Telecom_Churn_Analysis.ipynb`
 
 ## Notes
 - The business-impact scenarios are illustrative and depend on assumptions; they are not profit estimates.
